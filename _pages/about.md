@@ -25,34 +25,53 @@ I am also a memeber of the Julia-Epi community which aim to use julia to solve p
 Expereince
 ------
 bp (Jun 2020 - Oct 2020): Working as an engineer for Bp I developed a web application that modernised the data on GHG emissions from assets in the North Sea and made it more accessible. During this time, I have:
+
 1) Networked with senior leadership to access data not widely available
+
 2) Used SQL to query large sets of data to find key points to our project
+
 3) Performed correlational analysis in Python to establish trends and patterns in the emissions data
+
 4) Implemented a non json database to make data analysis easier
+
 5) Written reports to outline weakness and solutions in the current methodology
+
 6) Connected an Azure Oracle database to AWS serverless systems
+
 7) Took the role of Scrum master on several occasions
+
 8) Worked with an agile way remotely as part of an international team 
 
 Amazon (May 2019 - Oct 2019): I modelled a real-world project for Amazon, which had direct impacts to the UK network. During this time, I:
+
 1) Utilised rigorous scientific methodology to be able to prove my model and robust statistical analysis to prove the significance of my ideas.
+
 2) Produced and implemented the machine learning model within 13 weeks.
+
 3) Wrote backend code in python to make data extraction simpler.
+
 4) Wrote classes in python to enable transformation of large data sets into smaller, simpler ones for senior management to understand.
+
 5) Published weekly documents that inform the whole amazon network about my work.
+
 6) Conducted meetings with senior management to present my model.
+
 7) Worked remotely with a mentor and team across Europe.
 
 Teaching & Supervision
 ------
 22/23 -  Introduction to programming (C & Matlab), MSc projects, BSc projects
+
 21/22 - Maths and Control, BSc Projects
+
 20/21 - Introduction to probability, Modelling biological systems
+
 19/20 - Introduction to calculus, Introduction to Bayesian statistics
 
 Talks & Posters
 ------
 21/22 - Mathematics seminar Sheffield: Semianalytic solutions to a 4 element windkessel, MERI winter poster event: Semianalytic solutions to a 4 element windkessel, Creating knowledge congerence: Personaliable parameters of 0D cardiovascular models
+
 20/21 - Mathematical Biology Seminar Scotland:Why infections of malaria are so high?, Socoiety of mathematical biology epidimiological conference: New model of malaria transmission, Society of mathematical biology annual conference: 
 
 Prizes 
@@ -61,5 +80,6 @@ Creating Knowledge conference - Best contriubtion to reserch.
 
 Papers 
 ------
- Malaria -
- MSC Thesis - 
+ Malaria - [Malaria Paper](/home/harry/Desktop/PhD/Website/Website/_pages/Malaria.pdf)
+ 
+ MSC Thesis - [MSc Thesis](/home/harry/Desktop/PhD/Website/Website/_pages/MSc_Project.pdf)
