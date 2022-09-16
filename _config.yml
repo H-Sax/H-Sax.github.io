@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Harry Saxton"
-  avatar           : "/home/harry/Desktop/PhD/Website/Website/shu.pdf.jpg"
+  avatar           : "https://h-sax.github.io/files/shu.pdf.jpg"
   bio              : "Biological Systems"
   location         : "Sheffield"
   employer         :
