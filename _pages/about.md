@@ -8,23 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at Sheffield Hallam university working on examining the personalisability of 0D models to cardiovascular problems. My main areas of research are converned with the identifiability of input parameters. In a first pass I have used a range of identifiability and sensitivity analysis techniques in order to properly understand the dynamics of a cardiovascular system. We are developing new technqiues which allow us to understand how easily we could conduct a walk through parameter space in order to personalise a cardovascular model to medical data provided by paitents. I am also intersted in using the computational language Julia along with my research. I also am working to develop more physiological models of how the aortic valve dynamics behave.
+I am a second year PhD student at Sheffield Hallam University working on examining the personalisability of 0D models to cardiovascular problems. My main areas of research are concerned with the identifiability of input parameters. Primarily, I have used a range of identifiability and sensitivity analysis techniques in order to accurately understand the dynamics of a cardiovascular system. We are developing new technqiues which allow us to understand how easily we could conduct a walk through parameter space in order to personalise a cardovascular model to medical data provided by paitents. I am also intersted in using the computational language Julia along with my research. I am activley working with and developing more physiological models of how the aortic valve dynamics behave.
 
-The long term aim is to apply the techniques of kalaman filtration to see if this will allow us to obtain better estmiates of input parameters. If anyone has anyu questions please feel free to reach out on any
+My long term ambition is to apply the techniques of Kalaman Filtration to identify if this will allow us to obtain better estimates of input parameters. If you would like to ask mysef anymore questions on this subject, please feel free to reach out to me on any platform.
 
 Biography
 ------
-I obtained a BSc in mathematics from Newcastle university, then a MSc in mathematical biology from Heriot-Watt university where my thesis was titled Pattern formation in Stochastic Partial Differential Equations. During my studies, I focused on modelling and simulation while also having expertise in optimisation methods, bayesian statistics, sensitivity analysis and group theory. I am now at the Sheffield Hallam university working under the supervision of: Professor Ian Halliday (UOS), Dr Xu Xu and Dr Torsten Schenkel.  
+I obtained a BSc in mathematics from Newcastle university, then a MSc in Mathematical Biology from Heriot-Watt University where my thesis title was as follows Pattern formation in Stochastic Partial Differential Equations. During my studies, I focused on modelling and simulation while also having expertise in optimisation methods, bayesian statistics, sensitivity analysis and group theory. I am now at the Sheffield Hallam university working under the supervision of: Professor Ian Halliday (UoS), Dr Xu Xu and Dr Torsten Schenkel.  
 
 Computational Skills
 ------
-I am well skilled in: Matlab, Python, R and most recently Julia. Since the begginning of my PhD I have been using a range techniques from this language. The idea behind the Julia lang is that it provides the functionality which is given by Python and R however exhibits speed that seen by C. I have been using a range of machine learning, Ai and modelling packages. In the near future I am looking to contribute a modelling package to the Julia community which would provide users with a range of objects which could be easily put together to create a 0D model of the cardiovascular system. I am an active memeber within the julia community looking to contribute to any projects where julia could be utilised. In the near future I look to use both machine learning and bayesian statistics packages to see how they can apply to the cardiovascular system. 
+I am well skilled in: Matlab, Python, R and most recently Julia. Since the begginning of my PhD I have been using a range techniques from this language. The idea behind the Julia language is that it provides the functionality which is given by Python and R however exhibits speed that seen by C. I have been using a range of machiene learning, Ai and modelling packages. In the near future, I am looking to contribute a modelling package to the Julia community which would provide users with a range of objects which could be easily put together to create a 0D model of the cardiovascular system. I am an active memeber within the Julia community looking to contribute to any projects where Julia could be utilised. In the near future I look to use both machine learning and bayesian statistics packages to see how they can apply to the cardiovascular system. 
 
-I am also a memeber of the Julia-Epi community which aim to use julia to solve problems within epidimiology. I have a pre print out which looks at a new model for the spread of malaria and answers the question as to, even though deaths descrese each year it is often the case that the number of infections remains high each year. Although my current interests are narrow I feel the application of the techniques would be relevant to any situation where modelling is relevant. 
+I am also a memeber of the Julia-Epi community which aim to use Julia to solve problems within epidimiology. I have a pre print out which looks at a new model for the spread of malaria and answers the question as to, even though deaths descrese each year it is often the case that the number of infections remains high each year. Although my current interests are narrow I feel the application of the techniques would be relevant to any situation where modelling is relevant. 
 
 Expereince
 ------
-bp (Jun 2020 - Oct 2020): Working as an engineer for Bp I developed a web application that modernised the data on GHG emissions from assets in the North Sea and made it more accessible. During this time, I have:
+bp (Jun 2020 - Oct 2020): Working as an engineer for bp I developed a web application that modernised the data on GHG emissions from assets in the North Sea and made it more accessible. During this time, I have:
 
 1) Networked with senior leadership to access data not widely available
 
@@ -70,13 +70,13 @@ Teaching & Supervision
 
 Talks & Posters
 ------
-21/22 - Mathematics seminar Sheffield: Semianalytic solutions to a 4 element windkessel, MERI winter poster event: Semianalytic solutions to a 4 element windkessel, Creating knowledge congerence: Personaliable parameters of 0D cardiovascular models
+21/22 - Mathematics seminar Sheffield: Semianalytic solutions to a 4 Element Windkessel, MERI winter poster event: Semianalytic solutions to a 4 Element Windkessel, Creating knowledge congerence: Personaliable parameters of 0D cardiovascular models
 
 20/21 - Mathematical Biology Seminar Scotland: Why infections of malaria are so high?, Society of mathematical biology epidimiological conference: New model of malaria transmission, Society of mathematical biology annual conference: 
 
 Prizes 
 ------
-Creating Knowledge conference - Best contriubtion to reserch.
+Creating Knowledge conference - Best contriubtion to research.
 
 Papers 
 ------
