@@ -72,7 +72,7 @@ Talks & Posters
 ------
 21/22 - Mathematics seminar Sheffield: Semianalytic solutions to a 4 element windkessel, MERI winter poster event: Semianalytic solutions to a 4 element windkessel, Creating knowledge congerence: Personaliable parameters of 0D cardiovascular models
 
-20/21 - Mathematical Biology Seminar Scotland:Why infections of malaria are so high?, Socoiety of mathematical biology epidimiological conference: New model of malaria transmission, Society of mathematical biology annual conference: 
+20/21 - Mathematical Biology Seminar Scotland: Why infections of malaria are so high?, Society of mathematical biology epidimiological conference: New model of malaria transmission, Society of mathematical biology annual conference: 
 
 Prizes 
 ------
@@ -80,6 +80,6 @@ Creating Knowledge conference - Best contriubtion to reserch.
 
 Papers 
 ------
-[Malaria Paper - ](/home/harry/Desktop/PhD/Website/Website/files/Malaria.pdf)
+[Malaria Paper - Considering the effect reinfected asymptomatic individuals have on malaria transmission ](https://h-sax.github.io/files/Malaria.pdf)
  
- MSC Thesis - [MSc Thesis](/home/harry/Desktop/PhD/Website/Website/files/MSc_Project.pdf)
+[MSc Thesis - Pattern formation in Stochastic Partial Differential Equations](https://h-sax.github.io/files/MSc_Project.pdf)
