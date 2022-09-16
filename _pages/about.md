@@ -80,6 +80,6 @@ Creating Knowledge conference - Best contriubtion to reserch.
 
 Papers 
 ------
- Malaria - [Malaria Paper](/home/harry/Desktop/PhD/Website/Website/_pages/Malaria.pdf)
+[Malaria Paper - ](/home/harry/Desktop/PhD/Website/Website/files/Malaria.pdf)
  
- MSC Thesis - [MSc Thesis](/home/harry/Desktop/PhD/Website/Website/_pages/MSc_Project.pdf)
+ MSC Thesis - [MSc Thesis](/home/harry/Desktop/PhD/Website/Website/files/MSc_Project.pdf)
