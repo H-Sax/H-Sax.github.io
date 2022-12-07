@@ -32,9 +32,9 @@ Papers
 
 Software
 ------
-[CirculationModels.jl - is a Julia modelling library, that builds on the ModelingToolkit.jl package, which is part of Julia's SciML framework. It allows efficient and quick implementation of lumped parameter models using an acausal modelling approach. Due to just-in-time compilation and multiple dispatch, models created using this framework achieve a speed-up of one to two orders of magnitude compared to Matlab and Python, and comparable speeds to native C implementations, while using a high-level approach. The library is modular and extensible.
+CirculationModels.jl - is a Julia modelling library, that builds on the ModelingToolkit.jl package, which is part of Julia's SciML framework. It allows efficient and quick implementation of lumped parameter models using an acausal modelling approach. Due to just-in-time compilation and multiple dispatch, models created using this framework achieve a speed-up of one to two orders of magnitude compared to Matlab and Python, and comparable speeds to native C implementations, while using a high-level approach. The library is modular and extensible.
 
-We believe this library will be useful (dare we say, could be a game changer?) for many colleagues working in this field.](https://github.com/TS-CUBED/CirculationModels.jl)
+We believe this library will be useful (dare we say, could be a game changer?) for many colleagues working in this field.
  
 Talks & Posters
 ------
