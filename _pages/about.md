@@ -38,7 +38,8 @@ We believe this library will be useful (dare we say, could be a game changer?) f
  
 Talks & Posters
 ------
-07/12/22 - Northen Vascular biology forum. Talk: [Circulation Models.jl – A fresh approach to lumped parameter modelling.](https://h-sax.github.io/files/NVBF.html) Poster: [CirculationModels.jl - Reproducible, Modular Lumped Parameter Systems For Personalisation.](https://h-sax.github.io/files/Northen_Vascular_Biology_Forum.pdf)
+07/12/22 - Northen Vascular biology forum. Talk: [Circulation Models.jl – A fresh approach to lumped parameter modelling.](https://h-sax.github.io/files/NVBF.html) 
+	   Poster: [CirculationModels.jl - Reproducible, Modular Lumped Parameter Systems For Personalisation.](https://h-sax.github.io/files/Northen_Vascular_Biology_Forum.pdf)
 
 21/22 - Mathematics seminar Sheffield: Semianalytic solutions to a 4 Element Windkessel, MERI winter poster event: Semianalytic solutions to a 4 Element Windkessel, Creating knowledge congerence: Personaliable parameters of 0D cardiovascular models
 
