@@ -22,7 +22,43 @@ I am well skilled in: Matlab, Python, R and most recently Julia. Since the beggi
 
 I am also a memeber of the Julia-Epi community which aim to use Julia to solve problems within epidimiology. I have a pre print out which looks at a new model for the spread of malaria and answers the question as to, even though deaths descrese each year it is often the case that the number of infections remains high each year. Although my current interests are narrow I feel the application of the techniques would be relevant to any situation where modelling is relevant. 
 
-Expereince
+Papers 
+------
+[CirculationModels.jl - A ModelingToolkit Library for 0D-Lumped-Parameter Models of the Cardiovascular Circulation](https://h-sax.github.io/files/Joss_CM.pdf)
+
+[Malaria Paper - Considering the effect reinfected asymptomatic individuals have on malaria transmission ](https://h-sax.github.io/files/Malaria.pdf)
+ 
+[MSc Thesis - Pattern formation in Stochastic Partial Differential Equations](https://h-sax.github.io/files/MSc_Project.pdf)
+
+Software
+------
+[CirculationModels.jl - is a Julia modelling library, that builds on the ModelingToolkit.jl package, which is part of Julia's SciML framework. It allows efficient and quick implementation of lumped parameter models using an acausal modelling approach. Due to just-in-time compilation and multiple dispatch, models created using this framework achieve a speed-up of one to two orders of magnitude compared to Matlab and Python, and comparable speeds to native C implementations, while using a high-level approach. The library is modular and extensible.
+
+We believe this library will be useful (dare we say, could be a game changer?) for many colleagues working in this field.](https://github.com/TS-CUBED/CirculationModels.jl)
+ 
+Talks & Posters
+------
+07/12/22 - Northen Vascular biology forum. Talk: [Circulation Models.jl – A fresh approach to lumped parameter modelling.](https://h-sax.github.io/files/NVBF.html) Poster: [CirculationModels.jl - Reproducible, Modular Lumped Parameter Systems For Personalisation.](https://h-sax.github.io/files/Northen_Vascular_Biology_Forum.pdf)
+
+21/22 - Mathematics seminar Sheffield: Semianalytic solutions to a 4 Element Windkessel, MERI winter poster event: Semianalytic solutions to a 4 Element Windkessel, Creating knowledge congerence: Personaliable parameters of 0D cardiovascular models
+
+20/21 - Mathematical Biology Seminar Scotland: Why infections of malaria are so high?, Society of mathematical biology epidimiological conference: New model of malaria transmission, Society of mathematical biology annual conference: 
+
+Prizes 
+------
+21/22 - Creating Knowledge conference - Best contriubtion to research.
+
+Teaching & Supervision
+------
+22/23 -  Introduction to programming (C & Matlab), MSc projects, BSc projects
+
+21/22 - Maths and Control, BSc Projects
+
+20/21 - Introduction to probability, Modelling biological systems
+
+19/20 - Introduction to calculus, Introduction to Bayesian statistics
+
+Experience
 ------
 bp (Jun 2020 - Oct 2020): Working as an engineer for bp I developed a web application that modernised the data on GHG emissions from assets in the North Sea and made it more accessible. During this time, I have:
 
@@ -57,29 +93,3 @@ Amazon (May 2019 - Oct 2019): I modelled a real-world project for Amazon, which 
 6) Conducted meetings with senior management to present my model.
 
 7) Worked remotely with a mentor and team across Europe.
-
-Teaching & Supervision
-------
-22/23 -  Introduction to programming (C & Matlab), MSc projects, BSc projects
-
-21/22 - Maths and Control, BSc Projects
-
-20/21 - Introduction to probability, Modelling biological systems
-
-19/20 - Introduction to calculus, Introduction to Bayesian statistics
-
-Talks & Posters
-------
-21/22 - Mathematics seminar Sheffield: Semianalytic solutions to a 4 Element Windkessel, MERI winter poster event: Semianalytic solutions to a 4 Element Windkessel, Creating knowledge congerence: Personaliable parameters of 0D cardiovascular models
-
-20/21 - Mathematical Biology Seminar Scotland: Why infections of malaria are so high?, Society of mathematical biology epidimiological conference: New model of malaria transmission, Society of mathematical biology annual conference: 
-
-Prizes 
-------
-Creating Knowledge conference - Best contriubtion to research.
-
-Papers 
-------
-[Malaria Paper - Considering the effect reinfected asymptomatic individuals have on malaria transmission ](https://h-sax.github.io/files/Malaria.pdf)
- 
-[MSc Thesis - Pattern formation in Stochastic Partial Differential Equations](https://h-sax.github.io/files/MSc_Project.pdf)
