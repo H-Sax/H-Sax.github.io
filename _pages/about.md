@@ -22,6 +22,10 @@ I am well skilled in: Matlab, Python, R and most recently Julia. Since the beggi
 
 I am also a memeber of the Julia-Epi community which aim to use Julia to solve problems within epidimiology. I have a pre print out which looks at a new model for the spread of malaria and answers the question as to, even though deaths descrese each year it is often the case that the number of infections remains high each year. Although my current interests are narrow I feel the application of the techniques would be relevant to any situation where modelling is relevant. 
 
+Reviewing
+------
+I have contributed to Julia Con 2023 by reviewing talk proposals.
+
 Papers 
 ------
 [CirculationModels.jl - A ModelingToolkit Library for 0D-Lumped-Parameter Models of the Cardiovascular Circulation](https://h-sax.github.io/files/Joss_CM.pdf)
