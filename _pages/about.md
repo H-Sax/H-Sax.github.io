@@ -45,7 +45,7 @@ We believe this library will be useful (dare we say, could be a game changer?) f
 Talks & Posters
 ------
 INVITED TALKS
--------
+---
 - Oct 2024. New variance estimators for efficent and accurate global sensitivity analysis, Sheffield Mathematics.
 
 - Jul 2024. The personalisation of cardiovascular models using Julia. Julia Con 2024, Eindhoven.
@@ -59,7 +59,7 @@ INVITED TALKS
 - Dec 2021. Semi‑analytic Solutions to a 4‑Element Windkessel. Mathematics Research Seminar, Sheffield Hallam University.
 
 CONTRIBUTED
--------
+---
 - Sep 2024. New Perspectives on Global Sensitivity Analysis for the Creation of Cardiovascular Digital Twins. Virtual Physiological Human 2024, Eindhoven.
 
 - June 2023. Global sensitivity analysis, novel impact on policy decisions. Sensitivity analysis of model outputs conference 2023, Florida.
@@ -73,13 +73,13 @@ CONTRIBUTED
 
 Prizes 
 ------
-2024 Travel Award, Julia Org ‑ grant for attendance and presentation at Julia Con 2024 $ 750
-2024 Best Student Research, Sheffield Hallam ‑ Annual College Conference £ 100
-2024 Travel Award - Most promising research, Armourers & Brasiers’ Company £ 750
-2023 Inspirational Teaching Award Nominations, Sheffield Hallam University
-2023 Travel Award, Julia Org ‑ grant for attendance and presentation at Julia Con 2023 $ 1000
-2023 Associate Fellow in Higher Education, AdvanceHE
-2022 Most Impactful Research, Sheffield Hallam ‑ Creating Knowledge Conference £ 100
+- 2024 Travel Award, Julia Org ‑ grant for attendance and presentation at Julia Con 2024 $ 750
+- 2024 Best Student Research, Sheffield Hallam ‑ Annual College Conference £ 100
+- 2024 Travel Award - Most promising research, Armourers & Brasiers’ Company £ 750
+- 2023 Inspirational Teaching Award Nominations, Sheffield Hallam University
+- 2023 Travel Award, Julia Org ‑ grant for attendance and presentation at Julia Con 2023 $ 1000
+- 2023 Associate Fellow in Higher Education, AdvanceHE
+- 2022 Most Impactful Research, Sheffield Hallam ‑ Creating Knowledge Conference £ 100
 
 Teaching & Supervision
 ------
