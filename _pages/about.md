@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Sheffield, working with Professor (Richard Clayton)[https://www.sheffield.ac.uk/cs/people/academic/richard-clayton]. My current work focuses on developing computational tools for cardiovascular digital twins as part of the (CVD-Net program grant)[https://www.sheffield.ac.uk/cs/news/digital-twin-heart-modelling-project-will-monitor-patients-virtually]. My main research area centres on the identifiability of input parameters. Primarily, I employ a range of identifiability and sensitivity analysis techniques to accurately capture the dynamics of the cardiovascular system. We are developing novel methods that enable us to navigate parameter space, facilitating the personalisation of cardiovascular models to patient-provided medical data. I am also interested in the use of the Julia programming language for computational research.
+I am a postdoctoral researcher at the University of Sheffield, working with Professor [Richard Clayton](https://www.sheffield.ac.uk/cs/people/academic/richard-clayton). My current work focuses on developing computational tools for cardiovascular digital twins as part of the [CVD-Net program grant](https://www.sheffield.ac.uk/cs/news/digital-twin-heart-modelling-project-will-monitor-patients-virtually). My main research area centres on the identifiability of input parameters. Primarily, I employ a range of identifiability and sensitivity analysis techniques to accurately capture the dynamics of the cardiovascular system. We are developing novel methods that enable us to navigate parameter space, facilitating the personalisation of cardiovascular models to patient-provided medical data. I am also interested in the use of the Julia programming language for computational research.
 
 My research combines computational statistics, mathematics, and data science. I have a broad interest in both applying and developing tools for uncertainty quantification and calibration to address social issues, generating new insights through forecasting and prediction. I am also committed to integrating my research into teaching, fostering a positive learning environment through modern methodologies, including high-performance computing, Julia, and physics-informed neural networks.
 
@@ -45,6 +45,7 @@ We believe this library will be useful (dare we say, could be a game changer?) f
 Talks & Posters
 ------
 INVITED TALKS
+-------
 Oct 2024. New variance estimators for efficent and accurate global sensitivity analysis, Sheffield Mathematics.
 
 Jul 2024. The personalisation of cardiovascular models using Julia. Julia Con 2024, Eindhoven.
@@ -58,6 +59,7 @@ Jul 2023. Hands on Lumped Parameter Models with CirculatorySystemModels.jl. Work
 Dec 2021. Semi‑analytic Solutions to a 4‑Element Windkessel. Mathematics Research Seminar, Sheffield Hallam University.
 
 CONTRIBUTED
+-------
 Sep 2024. New Perspectives on Global Sensitivity Analysis for the Creation of Cardiovascular Digital Twins. Virtual Physiological Human 2024, Eindhoven.
 
 07/12/22 - Northen Vascular biology forum. Talk: [Circulation Models.jl – A fresh approach to lumped parameter modelling.](https://h-sax.github.io/files/NVBF.html) 
