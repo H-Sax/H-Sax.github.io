@@ -46,23 +46,25 @@ Talks & Posters
 ------
 INVITED TALKS
 -------
-Oct 2024. New variance estimators for efficent and accurate global sensitivity analysis, Sheffield Mathematics.
+- Oct 2024. New variance estimators for efficent and accurate global sensitivity analysis, Sheffield Mathematics.
 
-Jul 2024. The personalisation of cardiovascular models using Julia. Julia Con 2024, Eindhoven.
+- Jul 2024. The personalisation of cardiovascular models using Julia. Julia Con 2024, Eindhoven.
 
-Apr 2024. Subset selection methods for personalised medicine. SofTMech research Group Seminar Series, University of Glasgow.
+- Apr 2024. Subset selection methods for personalised medicine. SofTMech research Group Seminar Series, University of Glasgow.
 
-Jan 2024. The Personalisation of Cardiovascular Models: Leveraging Sensitivity Analysis. Complex Systems Group Seminar Series, University of Sheffield.
+- Jan 2024. The Personalisation of Cardiovascular Models: Leveraging Sensitivity Analysis. Complex Systems Group Seminar Series, University of Sheffield.
 
-Jul 2023. Hands on Lumped Parameter Models with CirculatorySystemModels.jl. Workshop, Julia Con 2023, Massachusetts Institute of Technology, USA.
+- Jul 2023. Hands on Lumped Parameter Models with CirculatorySystemModels.jl. Workshop, Julia Con 2023, Massachusetts Institute of Technology, USA.
 
-Dec 2021. Semi‑analytic Solutions to a 4‑Element Windkessel. Mathematics Research Seminar, Sheffield Hallam University.
+- Dec 2021. Semi‑analytic Solutions to a 4‑Element Windkessel. Mathematics Research Seminar, Sheffield Hallam University.
 
 CONTRIBUTED
 -------
-Sep 2024. New Perspectives on Global Sensitivity Analysis for the Creation of Cardiovascular Digital Twins. Virtual Physiological Human 2024, Eindhoven.
+- Sep 2024. New Perspectives on Global Sensitivity Analysis for the Creation of Cardiovascular Digital Twins. Virtual Physiological Human 2024, Eindhoven.
 
-07/12/22 - Northen Vascular biology forum. Talk: [Circulation Models.jl – A fresh approach to lumped parameter modelling.](https://h-sax.github.io/files/NVBF.html) 
+- June 2023. Global sensitivity analysis, novel impact on policy decisions. Sensitivity analysis of model outputs conference 2023, Florida.
+
+- Jul 2022 - Northen Vascular biology forum. Talk: [Circulation Models.jl – A fresh approach to lumped parameter modelling.](https://h-sax.github.io/files/NVBF.html) 
 	   Poster: [CirculationModels.jl - Reproducible, Modular Lumped Parameter Systems For Personalisation.](https://h-sax.github.io/files/Northen_Vascular_Biology_Forum.pdf)
 
 21/22 - Mathematics seminar Sheffield: Semianalytic solutions to a 4 Element Windkessel, MERI winter poster event: Semianalytic solutions to a 4 Element Windkessel, Creating knowledge congerence: Personaliable parameters of 0D cardiovascular models
