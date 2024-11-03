@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Harry Saxton"
   avatar           : "https://h-sax.github.io/files/shu.pdf.jpg"
-  bio              : "Biological Systems"
+  bio              : "Quantifying uncertainty in systems - biological and sociological"
   location         : "Sheffield"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "hs1454@hallam.shu.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=i2RPqvwAAAAJ"
+  email            : "h.saxton@sheffield.ac.uk"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HarrySaxton3"
+  twitter          : #"HarrySaxton3"
   vine             :
   weibo            :
   xing             :
@@ -301,6 +301,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
 
 
 # HTML Compression
