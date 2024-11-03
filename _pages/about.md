@@ -8,26 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at Sheffield Hallam University working on examining the personalisability of 0D models to cardiovascular problems. My main areas of research are concerned with the identifiability of input parameters. Primarily, I have used a range of identifiability and sensitivity analysis techniques in order to accurately understand the dynamics of a cardiovascular system. We are developing new technqiues which allow us to understand how easily we could conduct a walk through parameter space in order to personalise a cardiovascular model to medical data provided by paitents. I am also intersted in using the computational language Julia along with my research. I am activley working with and developing more physiological models of how the aortic valve dynamics behave.
+I am a postdoctoral researcher at the University of Sheffield, working with Professor (Richard Clayton)[https://www.sheffield.ac.uk/cs/people/academic/richard-clayton]. My current work focuses on developing computational tools for cardiovascular digital twins as part of the (CVD-Net program grant)[https://www.sheffield.ac.uk/cs/news/digital-twin-heart-modelling-project-will-monitor-patients-virtually]. My main research area centres on the identifiability of input parameters. Primarily, I employ a range of identifiability and sensitivity analysis techniques to accurately capture the dynamics of the cardiovascular system. We are developing novel methods that enable us to navigate parameter space, facilitating the personalisation of cardiovascular models to patient-provided medical data. I am also interested in the use of the Julia programming language for computational research.
 
-My long term ambition is to apply the techniques of Kalaman Filtration to identify if this will allow us to obtain better estimates of input parameters. If you would like to ask mysef anymore questions on this subject, please feel free to reach out to me on any platform.
+My research combines computational statistics, mathematics, and data science. I have a broad interest in both applying and developing tools for uncertainty quantification and calibration to address social issues, generating new insights through forecasting and prediction. I am also committed to integrating my research into teaching, fostering a positive learning environment through modern methodologies, including high-performance computing, Julia, and physics-informed neural networks.
+
+In the long term, I aim to establish a distinct research identity in the application and development of uncertainty quantification and forecasting methods across diverse fields. My goal is to build an interdisciplinary research group, prioritising interpretability and impact for end-users, such as policymakers, clinicians, and the public. If you have any questions regarding my work, please feel free to reach out to me on any platform.
 
 Biography
 ------
-I obtained a BSc in mathematics from Newcastle university, then a MSc in Mathematical Biology from Heriot-Watt University where my thesis title was as follows Pattern formation in Stochastic Partial Differential Equations. During my studies, I focused on modelling and simulation while also having expertise in optimisation methods, bayesian statistics, sensitivity analysis and group theory. I am now at the Sheffield Hallam university working under the supervision of: Professor Ian Halliday (UoS), Dr Xu Xu and Dr Torsten Schenkel.  
+I obtained a BSc in mathematics from Newcastle university, then a MSc in Mathematical Biology from Heriot-Watt University where my thesis title was as follows Pattern formation in Stochastic Partial Differential Equations. During my studies, I focused on modelling and simulation while also having expertise in optimisation methods, bayesian statistics, sensitivity analysis and group theory. I then completed a PhD in computational statistics focusing on developing new methods for model forecasting and sensitivity/identifiability analysis. The thesis tries to strike the right balance between theoretical development and applied impact in the methods developed. The work within the thesis is applicable to any field despite the focus been concentrated on cardiovascular models.      
 
 Computational Skills
 ------
-I am well skilled in: Matlab, Python, R and most recently Julia. Since the begginning of my PhD I have been using a range techniques from this language. The idea behind the Julia language is that it provides the functionality which is given by Python and R however exhibits speed that seen by C. I have been using a range of machiene learning, Ai and modelling packages. In the near future, I am looking to contribute a modelling package to the Julia community which would provide users with a range of objects which could be easily put together to create a 0D model of the cardiovascular system. I am an active memeber within the Julia community looking to contribute to any projects where Julia could be utilised. In the near future I look to use both machine learning and bayesian statistics packages to see how they can apply to the cardiovascular system. 
+I am well skilled in: High performance computing, Matlab, Python, R and most recently Julia. Since the begginning of my PhD I have been using a range techniques from this language. The idea behind the Julia language is that it provides the functionality which is given by Python and R however exhibits speed that seen by C. I have been using a range of machiene learning, Ai and modelling packages. In the near future, I am looking to contribute a modelling package to the Julia community which would provide users with a range of objects which could be easily put together to create a 0D model of the cardiovascular system. I am an active memeber within the Julia community looking to contribute to any projects where Julia could be utilised. In the near future I look to use both machine learning (Lux.jl, SciMLSensitivity.jl) and bayesian statistics (Turing.jl) packages to see how they can apply to the cardiovascular system. 
 
 I am also a memeber of the Julia-Epi community which aim to use Julia to solve problems within epidimiology. I have a pre print out which looks at a new model for the spread of malaria and answers the question as to, even though deaths descrese each year it is often the case that the number of infections remains high each year. Although my current interests are narrow I feel the application of the techniques would be relevant to any situation where modelling is relevant. 
 
-Reviewing
-------
-I have contributed to Julia Con 2023 by reviewing talk proposals.
-
 Papers 
 ------
+Please see my [google scholar](https://scholar.google.com/citations?user=i2RPqvwAAAAJ&hl=en&oi=ao) for a list of my published papers - Send me an email to learn more about what I have going on!
+
+[PhD Thesis - Development of Identifiability and Sensitivity analysis methods](https://drive.google.com/file/d/1StJXYf18bEcA7DjjJI0vlmLcnMvk442m/view?usp=sharing)
+
 [CirculationModels.jl - A ModelingToolkit Library for 0D-Lumped-Parameter Models of the Cardiovascular Circulation](https://h-sax.github.io/files/Joss_CM.pdf)
 
 [Malaria Paper - Considering the effect reinfected asymptomatic individuals have on malaria transmission ](https://h-sax.github.io/files/Malaria.pdf)
@@ -42,6 +44,22 @@ We believe this library will be useful (dare we say, could be a game changer?) f
  
 Talks & Posters
 ------
+INVITED TALKS
+Oct 2024. New variance estimators for efficent and accurate global sensitivity analysis, Sheffield Mathematics.
+
+Jul 2024. The personalisation of cardiovascular models using Julia. Julia Con 2024, Eindhoven.
+
+Apr 2024. Subset selection methods for personalised medicine. SofTMech research Group Seminar Series, University of Glasgow.
+
+Jan 2024. The Personalisation of Cardiovascular Models: Leveraging Sensitivity Analysis. Complex Systems Group Seminar Series, University of Sheffield.
+
+Jul 2023. Hands on Lumped Parameter Models with CirculatorySystemModels.jl. Workshop, Julia Con 2023, Massachusetts Institute of Technology, USA.
+
+Dec 2021. Semi‑analytic Solutions to a 4‑Element Windkessel. Mathematics Research Seminar, Sheffield Hallam University.
+
+CONTRIBUTED
+Sep 2024. New Perspectives on Global Sensitivity Analysis for the Creation of Cardiovascular Digital Twins. Virtual Physiological Human 2024, Eindhoven.
+
 07/12/22 - Northen Vascular biology forum. Talk: [Circulation Models.jl – A fresh approach to lumped parameter modelling.](https://h-sax.github.io/files/NVBF.html) 
 	   Poster: [CirculationModels.jl - Reproducible, Modular Lumped Parameter Systems For Personalisation.](https://h-sax.github.io/files/Northen_Vascular_Biology_Forum.pdf)
 
@@ -51,10 +69,18 @@ Talks & Posters
 
 Prizes 
 ------
-21/22 - Creating Knowledge conference - Best contriubtion to research.
+2024 Travel Award, Julia Org ‑ grant for attendance and presentation at Julia Con 2024 $ 750
+2024 Best Student Research, Sheffield Hallam ‑ Annual College Conference £ 100
+2024 Travel Award - Most promising research, Armourers & Brasiers’ Company £ 750
+2023 Inspirational Teaching Award Nominations, Sheffield Hallam University
+2023 Travel Award, Julia Org ‑ grant for attendance and presentation at Julia Con 2023 $ 1000
+2023 Associate Fellow in Higher Education, AdvanceHE
+2022 Most Impactful Research, Sheffield Hallam ‑ Creating Knowledge Conference £ 100
 
 Teaching & Supervision
 ------
+23/24 - MSc, BSc, PhD Supervision, Applied Mathematics (12 Lectures, 150 Students), Introduction to Statistics & uncertainty quantification (6 Lectures, 20 students). 
+
 22/23 -  Introduction to programming (C & Matlab), MSc projects, BSc projects
 
 21/22 - Maths and Control, BSc Projects
@@ -62,6 +88,15 @@ Teaching & Supervision
 20/21 - Introduction to probability, Modelling biological systems
 
 19/20 - Introduction to calculus, Introduction to Bayesian statistics
+
+Reviewing
+------
+- Julia con proceedings
+- Journal of Medical Engineering & Technology
+- Royal Society Journals (Philosophical Transactions A, Proceedings B, Interface)
+- Springer Journals (Annals of Biomedical Engineering, Biomechanics and Modeling in Mechanobiology, Statistical Methods & Applications)
+- Journal of Uncertainty Quantification
+- Taylor & Francis (Journal of Applied Statistics, Statistics in Medicine, Technometrics)
 
 Experience
 ------
